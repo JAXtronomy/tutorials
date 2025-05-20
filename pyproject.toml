@@ -5,6 +5,8 @@ description = "Tutorials about JAX usage in astronomy"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+  "ipykernel",
+  "jupyter-client",
   "jax",
   "numpy",
   "pre-commit",
