@@ -8,8 +8,10 @@ dependencies = [
   "ipykernel",
   "jupyter-client",
   "jax",
+  "matplotlib",
   "numpy",
   "pre-commit",
+  "scipy",
 ]
 
 [tool.uv]
